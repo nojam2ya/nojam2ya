@@ -35,7 +35,12 @@
 ---
 
 <div>
-    <img src="https://img.shields.io/badge/tisotry-white?style=for-the-badge&logo=tistory&logoColor=%23fff&color=%23000000&link=https://jinjoo648.tistory.com/" alt="blog" />
+    <a href="mailto:jinjoo648@naver.com">
+        <img src="https://img.shields.io/badge/naver-white?style=for-the-badge&logo=naver&logoColor=%23fff&color=%2303C75A" alt="mail jinjoo648@naver.com" />
+    </a>
+    <a href="https://jinjoo648.tistory.com" target="_blank">
+        <img src="https://img.shields.io/badge/tisotry-white?style=for-the-badge&logo=tistory&logoColor=%23fff&color=%23000000&link=https://jinjoo648.tistory.com/" alt="blog" />
+    </a>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=nojam2ya&color=lightgrey)
