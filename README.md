@@ -42,5 +42,3 @@
         <img src="https://img.shields.io/badge/tisotry-white?style=for-the-badge&logo=tistory&logoColor=%23fff&color=%23000000&link=https://jinjoo648.tistory.com/" alt="blog" />
     </a>
 </div>
-
-![](https://komarev.com/ghpvc/?username=nojam2ya&color=lightgrey)
